@@ -6,7 +6,7 @@ Hi I'm a college student from _City College of Angeles_
 - Elementary: Sta. Cruz Elementary School (Grade 5)
               Sto. Rosario Elementary School (Grades 1-4, Grade 6)
 - Junior High School: Francisco G Nepomuceno Memorial High School
-- Senior High School: Systems Plus College Foundation _(Main Campus)_
+- Senior High School: Systems Plus College Foundation **(Main Campus)**
 - College **(Undergrad)**: _City College of Angeles_
 ### My Projects
 - Midterm Lab Task 1:
