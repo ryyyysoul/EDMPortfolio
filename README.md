@@ -1,24 +1,22 @@
-### EDM-Projects-Supee-
-This is my Repo
+### EDMProject - _Eliezer Ryen D. Pineda_
+This is my Repository Portfolio
 ### About Me
-Hi I my name is..blah blah.....
+Hi I'm a college student from _City College of Angeles_
 ### Education:
-- College: City College of Angeles (BSIS)
-- High School:
-- Elementary:
+- Elementary: Sta. Cruz Elementary School (Grade 5)
+              Sto. Rosario Elementary School (Grades 1-4, Grade 6)
+- Junior High School: Francisco G Nepomuceno Memorial High School
+- Senior High School: Systems Plus College Foundation _(Main Campus)_
+- College **(Undergrad)**: _City College of Angeles_
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
-
-
-Task1.md
+- Midterm Lab Task 1:
+- Midterm Lab Task 2:
 # Midterm Lab Task 1
-This task is.....
+This task is...
 # STEP 1. Data Cleaning Process
 - Step One
 - Step Two
 - Step Three
-
 # Sample Output:
 ![screenshot](images/one.JPG)
 # Insert Image using img tag
