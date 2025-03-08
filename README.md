@@ -9,5 +9,5 @@ Hi I'm a college student from _City College of Angeles_
 - Senior High School: Systems Plus College Foundation **(Main Campus)**
 - College **(Undergrad)**: _City College of Angeles_
 ### My Projects
-- Midterm Lab Task 1:
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
 - Midterm Lab Task 2:
