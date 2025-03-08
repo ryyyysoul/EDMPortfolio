@@ -15,7 +15,7 @@ Mapped the Normalized tables as a Physical Data Model
 <img src="Images/raw.png" alt="Alt Text" width="700" height="800">
 
 ## **STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)**
-<img src="Images/Table_PINEDA.png" alt="Alt Text" width="700" height="800">
+<img src="Images/Table_PINEDA.png" alt="Alt Text" width="800" height="600">
 
 ## ***Here's the Physical Data Model***
-<img src="Images/PINEDA_ERD.png" alt="Alt Text" width="700" height="800">
+<img src="Images/PINEDA_ERD.png" alt="Alt Text" width="800" height="600">
