@@ -18,4 +18,4 @@ Mapped the Normalized tables as a Physical Data Model
 <img src="Images/Table_PINEDA.png" alt="Alt Text" width="400" height="300">
 
 ## ***Here's the Physical Data Model***
-<img src=".JPG" alt="Alt Text" width="400" height="300">
+<img src="Images/PINEDA_ERD.png" alt="Alt Text" width="400" height="300">
