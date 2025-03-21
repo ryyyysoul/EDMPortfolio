@@ -17,7 +17,7 @@ Mapped the Normalized tables as a Physical Data Model
 ## **STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)**
 <img src="Images/task2.png" alt="Alt Text" width="900" height="600">
 
-# **In Power Query**
+## **In Power Query**
 <img src="Uncleaned_DS_jobs.PNG" alt="Alt Text" width="900" height="600">
 
 ## ***Here's the Physical Data Model***
