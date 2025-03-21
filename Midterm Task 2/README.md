@@ -18,7 +18,7 @@ Mapped the Normalized tables as a Physical Data Model
 <img src="Images/task2.png" alt="Alt Text" width="900" height="600">
 
 ## **In Power Query**
-<img src="Uncleaned_DS_jobs.PNG" alt="Alt Text" width="900" height="600">
+<img src="Images/Uncleaned_DS_jobs.PNG" alt="Alt Text" width="900" height="600">
 
 ## ***Here's the Physical Data Model***
 <img src="Images/QueryDependencies.PNG" alt="Alt Text" width="900" height="600">
