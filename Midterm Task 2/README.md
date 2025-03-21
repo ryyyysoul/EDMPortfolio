@@ -12,10 +12,12 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Perform 3 NF
 Mapped the Normalized tables as a Physical Data Model
 ## **STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot)**
-<img src="Images/raw.png" alt="Alt Text" width="900" height="800">
+<img src="Images/raw2.png" alt="Alt Text" width="900" height="800">
 
 ## **STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)**
-<img src="Images/Table_PINEDA.png" alt="Alt Text" width="900" height="600">
+<img src="Images/task2.png" alt="Alt Text" width="900" height="600">
+In Power Query
+<img src="Uncleaned_DS_jobs.PNG" alt="Alt Text" width="900" height="600">
 
 ## ***Here's the Physical Data Model***
-<img src="Images/PINEDA_ERD.png" alt="Alt Text" width="900" height="600">
+<img src="Images/QueryDependencies.PNG" alt="Alt Text" width="900" height="600">
