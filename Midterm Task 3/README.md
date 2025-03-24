@@ -1,4 +1,4 @@
-# ***Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY***
+# ***Midterm Lab Task 3 - Data Cleaning and Transformation using POWER QUERY***
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
 ## **STEP 1 - Data Cleaning process**
 - Load the raw file
