@@ -18,4 +18,4 @@ Mapped the Normalized tables as a Physical Data Model
 <img src="Images/Dashboard.png" alt="Alt Text" width="900" height="600">
 
 ## ***Here's the Physical Data Model***
-<img src="Images/State-Mapping.png" alt="Alt Text" width="900" height="1000">
+<img src="Images/State-Mapping.png" alt="Alt Text" width="900" height="1300">
