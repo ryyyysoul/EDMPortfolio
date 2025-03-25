@@ -1,4 +1,4 @@
-# ***Midterm Lab Task 3 - Creating PIVOT TABLE and DASHBOARD***
+# ***Midterm Lab Task 3 - Creating a PIVOT TABLE and a DASHBOARD***
 For this task we are focusing on building the dashboard with the necessary pivot tables, charts, and interactivity using slicers. I'll break down the steps to ensure clarity:
 ## **STEP 1 - Data Preparation**
 - Load the raw file
