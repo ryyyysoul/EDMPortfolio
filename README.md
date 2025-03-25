@@ -1,7 +1,7 @@
 ### EDMProject - _Eliezer Ryen D. Pineda_
 This is my Repository Portfolio for the subject Enterprise Data Management (Information Management 2)
 ### About Me
-Hi I'm a college student from _City College of Angeles_ 📓
+Hi I'm a college student from _City College of Angeles_, from the program and section of BSIS - I103 📓
 ### Education:
 - Elementary:
 
