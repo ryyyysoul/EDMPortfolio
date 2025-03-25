@@ -16,7 +16,7 @@
 - Insert Slicers for Role Type, Size and State
 ## **STEP 2 - Pivot Table Adjustments**
 - Insert MAP for Dashboard
-- Apply a own design and colour settings
+- Apply an own design and colour settings
 - The Slicers should make the Dashboard interactive
 Mapped the Normalized tables as a Physical Data Model
 ## **STEP 3 - Here's the screenshot of my output before I started designing my Dashboard (See screenshot)**
