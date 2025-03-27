@@ -13,7 +13,6 @@ This portfolio provides an in-depth overview of the process involved in data cle
 - Go to Transform Menu → Extract → Text Before Delimiter
 - Type “(“ and click OK
 - Create two new columns: Min Salary and Max Salary
-
 Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections
 
 Type the first min salary value and press Enter (all rows will auto-fill)
@@ -21,7 +20,19 @@ Type the first min salary value and press Enter (all rows will auto-fill)
 Rename the column to “Min Sal”
 
 Repeat the process for Max Salary
-## **STEP 4 - Duplicate Raw Data**
+## **STEP 4 - Add Role Type Column**
+Go to Add Column Menu → Custom Column
+Rename the column to “Role Type”
+Use this logic:
+If Job Title contains “Data Scientist” → Assign “Data Scientist”
+
+If Job Title contains “Data Analyst” → Assign “Data Analyst”
+
+If Job Title contains “Data Engineer” → Assign “Data Engineer”
+
+If Job Title contains “Machine Learning” → Assign “Machine Learning Engineer”
+Otherwise, assign “Other”
+Change the column type to Text
 ## **STEP 5 - Duplicate Raw Data**
 Here are the screenshots showcasing the table transformation process
 ## **STEP 6 - Here's the screenshot of my output before I started data cleaning (See screenshot)**
