@@ -1,20 +1,21 @@
 # ***Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY***
-For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data CLeaning and Preparation
+This portfolio provides an in-depth overview of the process involved in data cleaning and preparation utilizing Power Query, a powerful tool for data manipulation. The dataset under consideration comprises several interconnected tables, each containing valuable information that requires meticulous attention. Throughout this portfolio, various cleaning techniques will be applied systematically to enhance the overall quality and consistency of the data. This preparatory work is crucial, as it lays the foundation for effective analysis and ensures that the insights derived from the data are reliable and meaningful. By addressing issues such as missing values, duplicate entries, and inconsistencies, we can significantly improve the dataset's integrity and usability, ultimately leading to more accurate and insightful analyses.
 ## **STEP 1 - Data Cleaning process**
-- Load the raw file
-- Fit Column and row width and height
-- TRIM extra spaces
-- Remove NULL values
-- Remove Duplicates
-## **STEP 2 - Normalization**
-- Performed 1NF
-- Perform Table split using 2NF
-- Perform 3 NF
-Mapped the Normalized tables as a Physical Data Model
-## **STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot)**
+- Download the dataset (Uncleaned_DS_jobs.csv)
+- Open Excel
+- Go to Data → New Query → Open File → Text/CSV
+- Click Load and then Edit using Power Query Editor
+## **STEP 2 - Duplicate Raw Data**
+- Right-click the dataset in the Queries pane
+- Select Duplicate
+## **STEP 3 - Clean Salary Data**
+## **STEP 4 - Duplicate Raw Data**
+## **STEP 5 - Duplicate Raw Data**
+Here are the screenshots showcasing the table transformation process
+## **STEP 6 - Here's the screenshot of my output before I started data cleaning (See screenshot)**
 <img src="Images/raw2.png" alt="Alt Text" width="900" height="800">
 
-## **STEP 4 - Here's the screenshot of my output after I started data cleaning (See screenshot)**
+## **STEP 7 - Here's the screenshot of my output after I started data cleaning (See screenshot)**
 <img src="Images/task2.png" alt="Alt Text" width="900" height="600">
 
 ## **In Power Query**
