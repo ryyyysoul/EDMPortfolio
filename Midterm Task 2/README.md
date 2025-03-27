@@ -13,6 +13,7 @@ This portfolio provides an in-depth overview of the process involved in data cle
 - Go to Transform Menu → Extract → Text Before Delimiter
 - Type “(“ and click OK
 - Create two new columns: Min Salary and Max Salary
+
 Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections
 
 Type the first min salary value and press Enter (all rows will auto-fill)
@@ -24,6 +25,7 @@ Repeat the process for Max Salary
 Go to Add Column Menu → Custom Column
 Rename the column to “Role Type”
 Use this logic:
+
 If Job Title contains “Data Scientist” → Assign “Data Scientist”
 
 If Job Title contains “Data Analyst” → Assign “Data Analyst”
