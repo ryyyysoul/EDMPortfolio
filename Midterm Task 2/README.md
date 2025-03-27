@@ -9,6 +9,18 @@ This portfolio provides an in-depth overview of the process involved in data cle
 - Right-click the dataset in the Queries pane
 - Select Duplicate
 ## **STEP 3 - Clean Salary Data**
+- Select the Salary Estimate column
+- Go to Transform Menu → Extract → Text Before Delimiter
+- Type “(“ and click OK
+- Create two new columns: Min Salary and Max Salary
+
+Select Salary Estimate column → Add Column Menu → Column from Examples → From Selections
+
+Type the first min salary value and press Enter (all rows will auto-fill)
+
+Rename the column to “Min Sal”
+
+Repeat the process for Max Salary
 ## **STEP 4 - Duplicate Raw Data**
 ## **STEP 5 - Duplicate Raw Data**
 Here are the screenshots showcasing the table transformation process
