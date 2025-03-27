@@ -22,9 +22,9 @@ Rename the column to “Min Sal”
 
 Repeat the process for Max Salary
 ## **STEP 4 - Add Role Type Column**
-Go to Add Column Menu → Custom Column
-Rename the column to “Role Type”
-Use this logic:
+- Go to Add Column Menu → Custom Column
+- Rename the column to “Role Type”
+- Use this logic:
 
 If Job Title contains “Data Scientist” → Assign “Data Scientist”
 
@@ -33,10 +33,14 @@ If Job Title contains “Data Analyst” → Assign “Data Analyst”
 If Job Title contains “Data Engineer” → Assign “Data Engineer”
 
 If Job Title contains “Machine Learning” → Assign “Machine Learning Engineer”
+
 Otherwise, assign “Other”
-Change the column type to Text
-## **STEP 5 - Duplicate Raw Data**
-Here are the screenshots showcasing the table transformation process
+- Change the column type to Text
+## **STEP 5 - View Query Dependencies**
+- Go to View Menu → Click Dependencies
+- Check if all queries are correctly linked
+
+# **The following are the pictures showing how I changed the table:**
 ## **STEP 6 - Here's the screenshot of my output before I started data cleaning (See screenshot)**
 <img src="Images/raw2.png" alt="Alt Text" width="900" height="800">
 
@@ -46,5 +50,5 @@ Here are the screenshots showcasing the table transformation process
 ## **In Power Query**
 <img src="Images/Uncleaned_DS_jobs.PNG" alt="Alt Text" width="900" height="600">
 
-## ***Here's the Physical Data Model***
+## ***Here’s the screenshot of the Query Dependencies***
 <img src="Images/QueryDependencies.PNG" alt="Alt Text" width="900" height="600">
