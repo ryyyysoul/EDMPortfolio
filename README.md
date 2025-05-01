@@ -15,3 +15,4 @@ Hi I'm a college student from _City College of Angeles_, from the program and se
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%201)
 - Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%202)
 - Midterm Lab Task 3: [Data Cleaning and Pivot Dashboard](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%203)
+- Finals Task 1: [SQL Basics](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%201)
