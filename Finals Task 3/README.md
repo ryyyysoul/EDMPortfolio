@@ -40,3 +40,5 @@ ALTER TABLE products_tbl MODIFY COLUMN product_name VARCHAR(120) NOT NULL;
 
 ## ER Diagram
 ![image](https://github.com/user-attachments/assets/6919c29d-d6af-4a90-a4e2-b37cbab3a4bb)
+
+## SQL Copy
