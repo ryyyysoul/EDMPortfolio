@@ -21,3 +21,17 @@ CREATE TABLE EmployeeSalaries (
 );
 ```
 ![image](https://github.com/user-attachments/assets/abcfda96-0bd8-45b6-848a-3cee5b83d0d6)
+
+---
+
+### Retrieve the employee_name and salary and arrange from the highest salary to lowest.
+```sql
+SELECT employee_name, salary FROM EmployeeSalaries ORDER BY salary DESC;
+```
+![image](https://github.com/user-attachments/assets/c2f9f9da-1d2e-4c4b-a636-ee826de58774)
+### Retrieve the department names along with the average salary for each department.
+```sql
+SELECT department, AVG(salary) AS average_salary FROM EmployeeSalaries GROUP BY department;
+```
+![image](https://github.com/user-attachments/assets/1a6e739c-1008-488b-933b-31ad1b14d4b4)
+
