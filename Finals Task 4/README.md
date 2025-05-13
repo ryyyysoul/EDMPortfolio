@@ -56,16 +56,16 @@ CREATE TABLE EmployeeData (
 
 ---
 
-### Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
-```sql
-SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 70000;
-```
-![image](https://github.com/user-attachments/assets/61147522-d7f1-4f8a-9f44-aece0700f122)
 ### Retrieve the employees along with their full names and salaries with highest paying employee to the lowest.
 ```sql
 SELECT full_name, salary FROM EmployeeData ORDER BY salary DESC;
 ```
 ![image](https://github.com/user-attachments/assets/3c87ab2e-80e3-4e4c-b50f-e9cd6578e20d)
+### Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
+```sql
+SELECT AVG(salary) AS average_salary FROM EmployeeData HAVING average_salary > 70000;
+```
+![image](https://github.com/user-attachments/assets/61147522-d7f1-4f8a-9f44-aece0700f122)
 ### Retrieve the full names of employees who earn a salary greater than $100,000.
 ```sql
 SELECT full_name FROM EmployeeData WHERE salary > 100000;
