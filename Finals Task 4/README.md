@@ -37,9 +37,8 @@ SELECT department, AVG(salary) AS average_salary FROM EmployeeSalaries GROUP BY 
 
 ## Step 2: Key Schema Statements
 **Objective:** Perform queries on the `EmployeeData` table.
-- ### Problem 2:
+- ### Problem 2: Create a database named employeeDB and copy and paste the initial query.
 - ### The `EmployeeData` table stores information about employees with the following schema:
-### Create a database named employeeDB and copy and paste the initial query.
 **Database Creation:**
 ```sql
 CREATE DATABASE employeeDB;
