@@ -18,3 +18,4 @@ Hi I'm a college student from _City College of Angeles_, from the program and se
 - Finals Task 1: [SQL Basics](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%201)
 - Finals Task 2: [Transforming ER Model to Relational Models](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%202%20)
 - Finals Task 3: [Table Manipulation](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%203)
+- Finals Task 4: [Implementing ***SELECT*** Queries](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%204)
