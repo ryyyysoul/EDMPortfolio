@@ -41,4 +41,8 @@ ALTER TABLE products_tbl MODIFY COLUMN product_name VARCHAR(120) NOT NULL;
 ## ER Diagram
 ![image](https://github.com/user-attachments/assets/6919c29d-d6af-4a90-a4e2-b37cbab3a4bb)
 
-## SQL Copy
+## SQL Copy of Database and Table Structures
+To export, in MySQL Workbench:
+- Go to Server > Data Export > Export to Self-Contained File (.sql) and select only the structure option.
+
+📍: [SQL Finals Lab Task 3](https://github.com/ryyyysoul/EDMPortfolio/blob/main/Finals%20Task%203/Finals%20Lab%20Task%203.sql)
