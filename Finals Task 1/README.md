@@ -1,4 +1,4 @@
-# 💻 *Finals Task 1*
+# 💻 *Finals Lab Task 1*
 
 ## *Task Description*
 Design and implement a MySQL database for an event management system.
