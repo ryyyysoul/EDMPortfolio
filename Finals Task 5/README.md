@@ -12,6 +12,8 @@ Before attempting this task, review the lecture on SQL Views and Stored Procedur
 ---
 
 ## Step 1: Create a View
+- This will display the `Vendors` following needed information.
+
 ```sql
 CREATE VIEW view_products_2002_onwards AS
 SELECT v.v_code, v.v_name, p.p_descript, p.p_indate
@@ -51,7 +53,8 @@ WHERE v.v_code IN (21344, 23119, 24288);
 
 ---
 
-- CREATE a STORED PROCEDURE that WILL take a SINGLE PARAMETER and UPDATED the Name of Vendor ‘Bryson,Inc.’ to ‘Bryson and Co’.
+## Step 2: CREATE a STORED PROCEDURE
+- This WILL take a SINGLE PARAMETER and UPDATED the Name of Vendor `Bryson,Inc.` to `Bryson and Co`.
 
 ```sql
 DELIMITER //
@@ -68,7 +71,9 @@ END //
 
 ![image](https://github.com/user-attachments/assets/da21798f-e100-4fd5-b7f9-d94cacfb8fc0)
 
-![image](https://github.com/user-attachments/assets/202f7222-5b6b-46ea-9325-f0cfbb776ed8)
+---
+
+- A Function that will take 2 parameters(v_code and v_state) and display all the product description and price based on the parameters passed to the function.
 
 ```sql
 DELIMITER //
@@ -89,4 +94,5 @@ END //
 DELIMITER ;
 SELECT get_products_by_vendor(21344, 'KY');
 ```
-- A Function that will take 2 parameters(v_code and v_state) and display all the product description and price based on the parameters passed to the function.
+
+![image](https://github.com/user-attachments/assets/202f7222-5b6b-46ea-9325-f0cfbb776ed8)
