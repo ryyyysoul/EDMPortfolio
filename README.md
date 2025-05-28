@@ -9,10 +9,11 @@ Hi I'm a college student from _City College of Angeles_, from the program and se
 - Senior High School: Systems Plus College Foundation **(Main Campus)**
 - College **(1st Year)**: _City College of Angeles_
 ### My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%201)
-- Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%202)
-- Midterm Lab Task 3: [Data Cleaning and Pivot Dashboard](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%203)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using ***EXCEL***](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%201)
+- Midterm Lab Task 2: [Data Cleaning and Transformation using ***POWER QUERY***](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%202)
+- Midterm Lab Task 3: [Data Cleaning and ***Pivot Dashboard***](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Midterm%20Task%203)
 - Finals Task 1: [SQL Basics](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%201)
-- Finals Task 2: [Transforming ER Model to Relational Models](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%202%20)
+- Finals Task 2: [Transforming ***ER Model to Relational Models***](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%202%20)
 - Finals Task 3: [Table Manipulation](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%203)
 - Finals Task 4: [Implementing ***SELECT*** Queries](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%204)
+- Finals Task 5: [Using Stored ***PROCEDURES, VIEWS, and FUNCTION***](https://github.com/ryyyysoul/EDMPortfolio/tree/main/Finals%20Task%205)
